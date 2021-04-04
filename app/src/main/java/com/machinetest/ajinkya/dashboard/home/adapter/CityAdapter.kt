@@ -33,7 +33,7 @@ class CityAdapter(
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, p1: Int) =
-        ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_all_news, parent, false))
+        ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_all_city, parent, false))
 
     override fun getItemCount() = filterList.size
 
