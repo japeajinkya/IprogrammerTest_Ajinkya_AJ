@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.machinetest.ajinkya.R
 import com.machinetest.ajinkya.dashboard.home.data.CityResponse
 import com.machinetest.ajinkya.dashboard.home.data.Weather
-import kotlinx.android.synthetic.main.item_all_news.view.*
+import kotlinx.android.synthetic.main.item_all_city.view.*
 import java.util.*
 import kotlin.collections.ArrayList
 
